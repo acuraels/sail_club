@@ -115,6 +115,7 @@ color: #163152;
   	text-transform: uppercase;
 	top: 834;
 	left: 125;
+	white-space: nowrap;
 }
 
 .date-2 {
@@ -123,6 +124,7 @@ color: #163152;
 	text-transform: uppercase;
 	top: 1196;
 	left: 972;
+	white-space: nowrap;
 }
 
 h2{
