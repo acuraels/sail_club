@@ -1,0 +1,618 @@
+body{
+	font-family: "Roboto", sans-serif;
+	color: #163152;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: 400;
+	font-style: normal;
+	background-color: #FDFDFF;
+}
+
+.site-navigation-item a{
+  	font-size: 14px;
+  	line-height: 18px;
+  	text-transform: uppercase;
+  	text-decoration: none;
+  	color: #163152;
+}
+
+.site-navigation-items li {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #163152;
+    list-style-type: none;
+}
+
+.site-navigation-item-1 {
+    position: absolute;
+    width: 73px;
+    height: 18px;
+    left: 590px;
+    top: 45px;
+}
+
+.site-navigation-item-2 {
+    position: absolute;
+    width: 52px;
+    height: 18px;
+    left: 693px;
+    top: 45px;
+}
+
+
+.site-navigation-item-3 {
+    position: absolute;
+    width: 70px;
+    height: 18px;
+    left: 775px;
+    top: 45px;
+}
+
+.site-navigation-item-4 {
+    position: absolute;
+    width: 73px;
+    height: 18px;
+    left: 875px;
+    top: 45px;
+}
+
+.site-navigation-item-5 {
+    position: absolute;
+    width: 66px;
+    height: 18px;
+    left: 978px;
+    top: 45px;
+}
+
+.site-navigation-item-6 {
+    position: absolute;
+    width: 75px;
+    height: 18px;
+    left: 1074px;
+    top: 45px;
+}
+
+.profile {
+	/* account */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 1189px;
+top: 36px;
+
+
+}
+
+h1{
+/* ВМЕСТЕ ПОД ПАРУСОМ */
+
+position: absolute;
+width: 488px;
+height: 60px;
+left: 125px;
+top: 148px;
+
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 400;
+font-size: 44px;
+line-height: 60px;
+/* identical to box height, or 136% */
+
+color: #163152;
+
+
+}
+
+.date-1 {
+  	font-size: 14px;
+  	line-height: 18px;
+  	text-transform: uppercase;
+	top: 834;
+	left: 125;
+}
+
+.date-2 {
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: uppercase;
+	top: 1196;
+	left: 972;
+}
+
+h2{
+	font-weight: 700;
+  	font-size: 14px;
+  	line-height: 18px;
+}
+
+.second-header{ 
+	font-weight: 700; 
+	font-size: 24px; 
+	line-height: 34px;
+ 	text-decoration: underline;
+ 	text-decoration-color: #00C6BD;
+ 	text-decoration-thickness: 2px;
+ 	text-underline-offset: 15px; 
+	 top: 1224;
+	 left: 909;
+}
+
+.second-header-contacts{
+	font-weight: 700; 
+	font-size: 24px; 
+	line-height: 34px;
+ 	text-decoration: underline;
+ 	text-decoration-color: #00C6BD;
+ 	text-decoration-thickness: 2px;
+ 	text-underline-offset: 24px;
+}
+
+h3{
+	font-weight: 700;
+  	font-size: 16px;
+  	line-height: 22px;
+}
+
+.info{
+  	font-size: 10px;
+  	line-height: 12px;
+}
+
+.info a{
+	text-decoration: none;
+  	color: #163152;
+}
+
+.contacts-list-item{
+  	font-size: 16px;
+  	line-height: 22px;
+}
+
+.contacts-list-item a{
+  	font-size: 16px;
+  	line-height: 22px;
+  	text-decoration: none;
+  	color: #163152;
+}
+
+.company-item a,
+.club-item a,
+.service-item a,
+.regattas-item a {
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration: none;
+    color: #163152;
+}
+
+.news{
+	font-size: 18px;
+	line-height: 26px;
+}
+
+.news h2{
+	text-align: center;
+}
+
+.text{
+	font-size: 16px;
+	line-height: 19px;
+	color: #8693A4;
+}
+
+.news h3{
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 26px;
+}
+
+h4{
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 26px;
+}
+
+.quote{
+	font-size: 26px;
+	font-weight: 700;
+	line-height: 36px;
+}
+
+b{
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 19px;
+	color: #163152;
+}
+
+.date-review{
+	font-size: 16px;
+	line-height: 19px;
+	color: #8693A4;
+}
+
+.site-navigation,
+.company-item,
+.club-item,
+.service-item,
+.regattas-item,
+.about{
+	list-style-type: none;
+}
+
+.map-footer {
+	position: absolute;
+	width: 670px;
+	height: 351px;
+	left: 55px;
+	top: 1568px;
+
+	background: url(map.png);
+}
+
+.logo-footer {
+    position: absolute;
+    width: 100px;
+    height: 106px;
+    left: 55px;
+    top: 2099px;
+}
+
+.policy {
+    position: absolute;
+    width: 175px;
+    height: 32px;
+    left: 55px;
+    top: 2235px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: #163152;
+}
+
+footer li  {
+    list-style-type: none;
+}
+
+.company {
+    position: absolute;
+    width: 165px;
+    height: 18px;
+    left: 355px;
+    top: 2099px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #163152;
+}
+
+.company-list {
+    position: absolute;
+    width: 123.23px;
+    height: 128px;
+    left: 355px;
+    top: 2137px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #163152;
+}
+
+.yaht-club {
+    position: absolute;
+    width: 153.54px;
+    height: 18px;
+    left: 590px;
+    top: 2099px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #163152;
+}
+
+.yaht-club-list {
+    position: absolute;
+    width: 165px;
+    height: 128px;
+    left: 590px;
+    top: 2137px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #163152;
+}
+
+.services {
+    position: absolute;
+    width: 84.03px;
+    height: 18px;
+    left: 825px;
+    top: 2099px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #163152;
+}
+
+.services-list {
+    position: absolute;
+    width: 165px;
+    height: 128px;
+    left: 825px;
+    top: 2137px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #163152;
+}
+
+.regattas {
+    position: absolute;
+    width: 53.32px;
+    height: 18px;
+    left: 1060px;
+    top: 2099px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #163152;
+}
+
+.regattas-list {
+    position: absolute;
+    width: 165px;
+    height: 128px;
+    left: 1060px;
+    top: 2137px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #163152;
+}
+
+.contacts {
+    position: absolute;
+    width: 113px;
+    height: 34px;
+    left: 825px;
+    top: 1618px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #163152;
+
+	text-decoration: underline;
+ 	text-decoration-color: #00C6BD;
+ 	text-decoration-thickness: 2px;
+ 	text-underline-offset: 15px; 
+}
+
+.line-3 {
+    position: absolute;
+    width: 113px;
+    height: 0px;
+    left: 825px;
+    top: 1667px;
+    border: 1px solid #00C6BD;
+}
+
+.adress {
+    position: absolute;
+    width: 52px;
+    height: 22px;
+    left: 825px;
+    top: 1687px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #163152;
+}
+
+.adress-desc {
+    position: absolute;
+    width: 140px;
+    height: 22px;
+    left: 887px;
+    top: 1687px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #163152;
+    white-space: nowrap;
+}
+
+.phone {
+	position: absolute;
+	width: 70px;
+	height: 22px;
+	left: 825px;
+	top: 1724px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 22px;
+	color: #163152;	
+}
+
+.phone-desc {
+    position: absolute;
+    width: 118px;
+    height: 22px;
+    left: 905px;
+    top: 1724px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #163152;
+}
+
+.email {
+    position: absolute;
+    width: 51px;
+    height: 22px;
+    left: 825px;
+    top: 1761px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #163152;
+}
+
+.email-desc {
+    position: absolute;
+    width: 179px;
+    height: 22px;
+    left: 886px;
+    top: 1761px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #163152;
+}
+
+.socials {
+position: absolute;
+width: 189px;
+height: 22px;
+left: 825px;
+top: 1798px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+color: #163152;
+}
+
+.socials-facebook {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 825px;
+    top: 1835px;
+}
+
+.socials-twitter {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    Top: 1835px;
+    Left: 880px;
+}
+
+.socials-instagram {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 935px;
+    top: 1835px;
+}
+
+.pre-footer-list {
+	list-style-type: none;
+}
+
+main li {
+	list-style-type: none;
+}
+
+.desc-1 {
+    position: absolute;
+    width: 400px;
+    height: 120px;
+    left: 125px;
+    top: 931px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #163152;
+}
+
+
+.main-boat {
+	position: absolute;
+	width: 1170px;
+	height: 466px;
+	left: 55px;
+	top: 248px;
+}
+
+.description {
+	position: absolute;
+	width: 400px;
+	height: 96px;
+	left: 755px;
+	top: 1293px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	text-align: right;
+	color: #163152;
+}
